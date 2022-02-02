@@ -1,3 +1,5 @@
+# Online User Engagement of Cosmetic E-commerce Shoppers During COVID-19 Pandemic
+
 # Question/need
 # What is the framing question of your analysis, or the purpose of the model/system you plan to build?
 The purpose of the model is to increase customer engagement on Sephora.com since there is less foot traffic to brick-and-mortar Sephora stores since COVID-19 started.
