@@ -1,4 +1,4 @@
-# Minimum Viable Product (MVP) Template
+# Minimum Viable Product (MVP)
 
 <img width="1250" alt="sephora_mvp" src="https://user-images.githubusercontent.com/67651332/152865756-5cd5cf06-49e4-4253-b03b-46dc5e238bef.PNG">
 
