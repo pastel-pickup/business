@@ -1,3 +1,4 @@
+
 # Retaining Longer User Attention on Sephora.com
 Mai Tran
 
@@ -25,4 +26,13 @@ Sephora.com dataset was created April 17th 2020 during COVID-19 pandemic. The da
 3. Google Slides for presentation slides
 
 # Communication
+Top facial product provide brands by volume
+<img width="552" alt="brands_high_volume" src="https://user-images.githubusercontent.com/67651332/153618933-2fe98c04-02ad-40a7-a6af-30ac469183d5.png">
+
+Top highly-rated brands
+<img width="578" alt="top_rated" src="https://user-images.githubusercontent.com/67651332/153619102-5f865053-06db-4445-8f77-34af7b9b2fc7.PNG">
+
+Insights
+<img width="577" alt="top_reviews" src="https://user-images.githubusercontent.com/67651332/153619141-172332fe-8654-4e74-b323-6b2465c8c1b1.PNG">
+
 
